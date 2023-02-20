@@ -1,4 +1,7 @@
-# vue2-dnd
+# Vue sandbox
+
+Разное на vue2
+
 
 ## Project setup
 ```
