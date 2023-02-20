@@ -1,4 +1,4 @@
-# Vue sandbox
+# Vue 2 sandbox
 
 Разное на vue2
 
