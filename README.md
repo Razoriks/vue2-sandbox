@@ -1,6 +1,6 @@
 # Vue 2 sandbox
 
-Разное на vue2
+Разное на vue 2
 
 
 ## Project setup
