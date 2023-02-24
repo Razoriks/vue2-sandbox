@@ -1,0 +1,7 @@
+version: "0.1"
+
+services:
+  docs:
+    build: .
+    ports:
+      - 4400:8080
