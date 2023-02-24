@@ -1,7 +1,7 @@
 version: "0.1"
 
 services:
-  docs:
+  vue:
     build: .
     ports:
       - 4400:8080
